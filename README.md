@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SNERIS
 - 👀 I’m interested in software developing
-- 🌱 I’m currently learning C.
+- 🌱 I’m currently learning Java.
 - 📫 Reach me at my email: nerisinaj@gmail.com.
 - ⚡ Fun fact:I love to get hands-on with hardware.
 
